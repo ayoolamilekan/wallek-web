@@ -2,7 +2,7 @@ body {
     font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     width: 100%;
     margin: 0 auto;
-    background-image: url(./images/bigsq_new.bmp);
+    background-image: url(./images/bigsq_bet.bmp);
     /* background-color: #f9f2e8; */
     background-attachment: fixed;
     background-repeat: repeat;
@@ -10,7 +10,7 @@ body {
 }
 
 header {
-    background-color: #ffcdb2;
+    background-color: #ccd5ae;
     height: 90px;
 }
 
@@ -39,7 +39,7 @@ header {
 }
 
 footer {
-    background-color: #6d6875;
+    background-color: #d4a373;
     height: 90px;
 }
 
@@ -56,19 +56,16 @@ footer {
     width: 75%;
 }
 
-.op {
-    opacity: 0.7;
-}
 .mid-1 {
-    background-color: #ffb4a2;
+    background-color: #e9edc9;
 }
 
 .mid-2 {
-    background-color: #e5989b;
+    background-color: #fefae0;
 }
 
 .mid-3 {
-    background-color: #b5838d;
+    background-color: #faedcd;
 }
 
 .services {
