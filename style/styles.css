@@ -3,17 +3,16 @@ body {
     width: 100%;
     margin: 0 auto;
     background-image: url(./images/bigsq_new.bmp);
+    /* background-color: #f9f2e8; */
     background-attachment: fixed;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: cover;
 }
-
 
 header {
     background-color: #ffcdb2;
     height: 90px;
 }
-
 
 .header-icon {
     float: left;
@@ -57,12 +56,19 @@ footer {
     width: 75%;
 }
 
+.op {
+    opacity: 0.7;
+}
 .mid-1 {
     background-color: #ffb4a2;
 }
 
 .mid-2 {
     background-color: #e5989b;
+}
+
+.mid-3 {
+    background-color: #b5838d;
 }
 
 .services {
